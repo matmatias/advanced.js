@@ -37,6 +37,6 @@ const result = data.filter(function(num){
    return (num % 2 === 0);
 });
 console.log(result); // [8, 90]
-```javascript
+```
 
 Higher-order functions can improve code ligibility by making it more concicse and easy to understand, and they help organize the code into smaller chinks, making it easier to mainte and extend [freecodecamp.org](https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/)
